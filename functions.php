@@ -26,7 +26,7 @@ if ($getlength > $thelength) echo "...";
 add_theme_support( 'post-thumbnails' );
 remove_action('wp_head', 'wp_generator');
 
-/* Redirect to the homepage's feeds */
+/* Disable Feed from wordpress */
 function disable_feeds() {
 	wp_redirect( home_url() );
 	die;
