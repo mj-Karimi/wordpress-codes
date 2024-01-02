@@ -3,3 +3,4 @@
 <p>limit wordpress title whitout code</p>
 <p>Active wordpress thumbnail</p>
 <p>Disable Feed from wordpress</p>
+<p>Disable Emoji</p>
